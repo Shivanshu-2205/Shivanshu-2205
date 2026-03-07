@@ -193,7 +193,7 @@ ML PIPELINE                    FEEDBACK LOOP                 RAG ARCHITECTURE
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=shivanshu-2205&theme=onestar&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivanshu-2205&theme=darkhub&no-frame=true&no-bg=true&column=7" />
 </a>
 
 </div>
@@ -236,7 +236,7 @@ ML PIPELINE                    FEEDBACK LOOP                 RAG ARCHITECTURE
 
 <br/>
 
-<!-- Snake contribution animation — needs .github/workflows/snake.yml -->
+<!-- Snake contribution animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/shivanshu-2205/shivanshu-2205/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanshu-2205/shivanshu-2205/output/github-snake.svg" />
