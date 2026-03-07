@@ -193,7 +193,7 @@ ML PIPELINE                    FEEDBACK LOOP                 RAG ARCHITECTURE
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivanshu-2205&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+<img src="https://github-trophies.vercel.app/?username=shivanshu-2205&theme=darkhub&no-frame=true&no-bg=true&column=7" />
 </a>
 
 </div>
