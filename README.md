@@ -165,14 +165,14 @@ ML PIPELINE                    FEEDBACK LOOP                 RAG ARCHITECTURE
 <div align="center">
 
 <a href="https://github.com/shivanshu-2205">
-  <img height="180em" src="https://github-readme-stats-jade-one-50.vercel.app/api?username=shivanshu-2205&show_icons=true&theme=transparent&hide_border=true&title_color=4f8ef7&icon_color=4f8ef7&text_color=e8eaf2&bg_color=07090e&ring_color=4f8ef7&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-jade-one-50.vercel.app/api/top-langs/?username=shivanshu-2205&layout=compact&theme=transparent&hide_border=true&title_color=4f8ef7&text_color=e8eaf2&bg_color=07090e&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivanshu-2205&show_icons=true&theme=transparent&hide_border=true&title_color=4f8ef7&icon_color=4f8ef7&text_color=e8eaf2&bg_color=07090e&ring_color=4f8ef7&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu-2205&layout=compact&theme=transparent&hide_border=true&title_color=4f8ef7&text_color=e8eaf2&bg_color=07090e&langs_count=8" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/shivanshu-2205">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shivanshu-2205&theme=transparent&hide_border=true&stroke=4f8ef7&ring=4f8ef7&fire=7c5cfc&currStreakLabel=4f8ef7&sideLabels=e8eaf2&dates=9ca3af&background=07090e" />
+  <img src="https://streak-stats.demolab.com/?user=shivanshu-2205&theme=transparent&hide_border=true&stroke=4f8ef7&ring=4f8ef7&fire=7c5cfc&currStreakLabel=4f8ef7&sideLabels=e8eaf2&dates=9ca3af&background=07090e" />
 </a>
 
 <br/><br/>
@@ -183,8 +183,6 @@ ML PIPELINE                    FEEDBACK LOOP                 RAG ARCHITECTURE
 
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ── TROPHIES ─────────────────────────────────────────────── -->
 
